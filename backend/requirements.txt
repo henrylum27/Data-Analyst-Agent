@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+duckdb
+python-multipart
+requests
+scikit-learn

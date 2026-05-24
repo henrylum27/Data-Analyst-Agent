@@ -1,0 +1,107 @@
+date,region,product,sales_channel,payment_method,sales_rep,quantity,unit_price,discount_rate,sales,profit
+2024-01-01,West,Laptop,Online,Credit Card,George,11,850,0,9350,3000.54
+2024-01-02,South,Printer,Partner,Credit Card,David,5,120,0.15,,198.47
+2024-01-03,North,Phone,Retail,PayPal,David,4,500,0.05,1900.0,656.86
+2024-01-04,West,Keyboard,Online,Bank Transfer,Emma,,90,0.05,342.0,87.6
+2024-01-05,South,Phone,Wholesale,PayPal,Chloe,11,950,0.15,8882.5,2896.01
+2024-01-06,,Laptop,Retail,Cash,Hannah,3,950,0.05,2707.5,
+2024-01-07,East,Phone,Retail,Credit Card,David,8,800,0.15,5440.0,1686.06
+2024-01-08,East,Laptop,Online,Credit Card,Hannah,5,950,0.15,4037.5,1105.7
+2024-01-09,Central,Tablet,Online,Bank Transfer,George,4,550,0,2200,876.3
+2024-01-10,North,Monitor,Online,PayPal,Hannah,2,250,0.15,425.0,145.05
+2024-01-11,East,Tablet,Retail,Cash,Farah,11,400,0.15,3740.0,1297.1
+2024-01-12,East,Printer,Retail,Credit Card,,1,120,0,120,43.54
+2024-01-13,East,Headphones,,Bank Transfer,Farah,3,70,0.05,199.5,87.15
+2024-01-14,,Laptop,Online,Bank Transfer,Farah,4,1250,0.1,4500.0,1344.62
+2024-01-15,South,Phone,Online,Bank Transfer,David,2,950,0.05,1805.0,
+2024-01-16,East,Monitor,Online,,George,9,180,0.15,1377.0,570.42
+2024-01-17,Central,Tablet,Online,PayPal,Alice,11,300,0.2,2640.0,919.72
+2024-01-18,West,Laptop,Online,Credit Card,Emma,7,950,0.2,5320.0,2268.22
+2024-01-19,North,Printer,Partner,,George,7,250,0,1750,470.58
+2024-01-20,Central,Tablet,Online,Cash,Ben,,400,0.1,360.0,105.74
+2024-01-21,South,Monitor,,Credit Card,Emma,6,350,0,,602.66
+2024-01-22,West,Keyboard,Online,Credit Card,Farah,6,90,0.1,486.0,140.77
+2024-01-23,West,Laptop,Retail,Bank Transfer,George,5,1100,0.1,4950.0,1458.3
+2024-01-24,West,Phone,Retail,Bank Transfer,Alice,4,650,0,2600,897.66
+2024-01-25,South,Laptop,Retail,PayPal,Hannah,2,1250,0,2500,862.53
+2024-01-26,,Printer,Retail,Cash,Emma,9,120,0.15,918.0,310.78
+2024-01-27,South,Printer,Online,Credit Card,David,3,180,,540,139.55
+2024-01-28,Central,Monitor,Retail,PayPal,Chloe,7,180,0.05,1197.0,354.5
+2024-01-29,,Monitor,Wholesale,Bank Transfer,Farah,2,180,0.1,324.0,121.44
+2024-01-30,South,Laptop,Online,Bank Transfer,,6,950,0,5700,2252.27
+2024-01-31,South,Phone,Retail,,Farah,3,500,0.2,1200.0,485.26
+2024-02-01,South,Keyboard,Partner,Cash,Emma,1,40,0.1,36.0,9.39
+2024-02-02,West,Tablet,Partner,,Chloe,9,400,0.05,3420.0,845.51
+2024-02-03,North,Printer,Online,Credit Card,George,6,120,0.1,648.0,218.78
+2024-02-04,West,Laptop,Online,Cash,Chloe,10,1100,0.05,10450.0,3013.19
+2024-02-05,North,Monitor,Partner,Credit Card,Ben,8,180,0,1440,
+2024-02-06,Central,Monitor,Partner,Credit Card,Alice,5,250,0,1250,447.3
+2024-02-07,East,Phone,,Credit Card,George,10,950,0.15,8075.0,3521.89
+2024-02-08,South,Laptop,Online,Bank Transfer,Ben,7,1250,0.1,7875.0,3414.83
+2024-02-09,Central,Phone,Online,Credit Card,Ben,5,500,0.1,2250.0,948.15
+2024-02-10,East,Laptop,Online,Bank Transfer,Chloe,5,850,0.15,3612.5,1592.2
+2024-02-11,North,Monitor,Retail,Bank Transfer,Alice,6,350,0.1,1890.0,725.21
+2024-02-12,South,Phone,,Bank Transfer,Emma,1,950,0.1,855.0,235.3
+2024-02-13,West,Laptop,,Bank Transfer,Ben,3,1100,0.2,2640.0,682.72
+2024-02-14,Central,,Online,Bank Transfer,David,10,200,0.2,1600.0,610.13
+2024-02-15,East,Phone,Retail,Bank Transfer,David,6,650,0.1,3510.0,1010.17
+2024-02-16,,Tablet,Online,Bank Transfer,Emma,2,550,0,1100,476.07
+2024-02-17,North,Phone,Retail,Bank Transfer,,11,500,0.2,4400.0,1888.54
+2024-02-18,North,Phone,Online,Credit Card,Alice,6,950,0,5700,2335.48
+2024-02-19,East,Phone,Retail,Bank Transfer,Farah,8,650,0.2,4160.0,1632.71
+2024-02-20,South,Monitor,Retail,,Chloe,11,350,0.1,3465.0,895.52
+2024-02-21,North,Phone,Online,Cash,George,11,500,0.05,5225.0,1471.14
+2024-02-22,North,Monitor,,Bank Transfer,Hannah,3,350,0,1050,264.78
+2024-02-23,South,Mouse,Online,Bank Transfer,David,11,60,0.15,561.0,138.36
+2024-02-24,Central,Printer,Online,Bank Transfer,Ben,1,120,0.05,114.0,33.72
+2024-02-25,North,Tablet,Online,Bank Transfer,David,5,300,0.05,1425.0,462.8
+2024-02-26,North,Mouse,Retail,Cash,Farah,10,60,0,600,189.08
+2024-02-27,East,Phone,,,Emma,3,500,0,1500,583.45
+2024-02-28,East,Phone,Retail,Bank Transfer,Ben,10,800,0.2,6400.0,2721.08
+2024-02-29,North,Laptop,Retail,Bank Transfer,Farah,7,1100,0.2,6160.0,1528.47
+2024-03-01,South,Mouse,Online,Cash,Chloe,6,25,0.1,135.0,57.75
+2024-03-02,East,Phone,Online,Credit Card,Farah,7,800,0,5600,1674.12
+2024-03-03,West,Monitor,Partner,PayPal,,10,180,0,1800,734.9
+2024-03-04,,Laptop,Retail,Credit Card,David,3,1100,0,,912.38
+2024-03-05,East,Tablet,Online,Bank Transfer,Chloe,2,550,0,1100,493.06
+2024-03-06,South,Laptop,Partner,Credit Card,David,12,950,0,11400,2869.55
+2024-03-07,North,Laptop,Online,PayPal,Farah,12,1100,0,13200,4738.45
+2024-03-08,East,Laptop,Retail,PayPal,Chloe,12,950,0.2,9120.0,3945.94
+2024-03-09,East,Keyboard,Wholesale,Bank Transfer,,6,65,0.15,331.5,144.89
+2024-03-10,Central,Laptop,Partner,PayPal,Farah,9,1250,0,11250,4230.55
+2024-03-11,Central,Phone,Partner,Bank Transfer,Ben,4,950,0.1,3420.0,1217.46
+2024-03-12,North,Laptop,Retail,Credit Card,George,11,950,0.2,8360.0,2488.85
+2024-03-13,West,Phone,Online,Cash,,11,950,0.05,9927.5,2303.54
+2024-03-14,Central,Laptop,Partner,PayPal,Hannah,1,1100,0,,312.54
+2024-03-15,East,Mouse,Partner,Credit Card,Ben,8,40,0.15,272.0,96.21
+2024-03-16,North,Tablet,Online,PayPal,Farah,9,300,,2700,627.28
+2024-03-17,North,Tablet,Online,,David,1,550,,495.0,143.5
+2024-03-18,North,Phone,Partner,Bank Transfer,George,9,500,0.2,3600.0,962.65
+2024-03-19,North,Tablet,Online,Credit Card,David,10,550,0.05,5225.0,2269.92
+2024-03-20,South,Tablet,Retail,,Chloe,1,400,0.2,320.0,88.31
+2024-03-21,Central,Keyboard,,Bank Transfer,Ben,3,40,0.05,114.0,37.79
+2024-03-22,North,Phone,Partner,PayPal,Chloe,2,950,0.2,1520.0,510.07
+2024-03-23,North,Monitor,Partner,Bank Transfer,Chloe,2,250,0.1,,166.11
+2024-03-24,South,,Wholesale,Credit Card,Farah,6,100,0,600,162.56
+2024-03-25,West,Headphones,Online,Cash,Emma,9,70,0,630,211.19
+2024-03-26,East,,Online,PayPal,Emma,2,200,0.2,320.0,118.43
+2024-03-27,West,Printer,Retail,Cash,Emma,2,250,0.1,450.0,119.32
+2024-03-28,,Keyboard,Retail,Cash,George,2,65,0,130,32.25
+2024-03-29,East,Printer,Online,Credit Card,Ben,3,180,0,540,164.13
+2024-03-30,Central,Laptop,Online,Credit Card,Alice,25,1250,0.05,29687.5,9850.75
+2024-03-31,South,Phone,Wholesale,PayPal,David,18,950,0.1,15390.0,5120.44
+2024-04-01,West,Laptop,Partner,Bank Transfer,Hannah,30,1100,0,33000,11250.90
+2024-04-02,North,Tablet,Retail,Credit Card,Alice,4,550,0.15,1870.0,-250.75
+2024-04-03,East,Monitor,Online,Cash,George,6,350,0.05,1995.0,710.20
+2024-04-04,Central,Printer,Partner,,Ben,8,180,0.1,1296.0,
+2024-04-05,,Mouse,Online,PayPal,Chloe,9,40,0,360,96.45
+2024-04-06,South,Laptop,Retail,Credit Card,Farah,2,1250,0.2,2000.0,-430.60
+2024-04-07,West,Keyboard,Online,Bank Transfer,Emma,12,65,0.15,663.0,198.22
+2024-04-08,North,Phone,Partner,Cash,,7,800,0.05,5320.0,1890.10
+2024-04-09,East,Tablet,,Credit Card,David,5,400,0.2,1600.0,510.33
+2024-04-10,Central,Laptop,Online,Bank Transfer,George,40,1250,0,50000,17500.00
+2024-04-11,South,Monitor,Retail,PayPal,Hannah,,350,0.1,3150.0,870.25
+2024-04-12,West,Headphones,Online,Credit Card,Alice,14,70,0.05,931.0,310.77
+2024-04-13,North,Printer,Wholesale,Bank Transfer,Ben,10,250,0.15,2125.0,620.18
+2024-04-14,East,Laptop,Online,Cash,Farah,1,1100,0.2,880.0,-120.50
+2024-04-15,Central,Phone,Retail,Credit Card,Chloe,9,950,0.1,7695.0,2500.39
